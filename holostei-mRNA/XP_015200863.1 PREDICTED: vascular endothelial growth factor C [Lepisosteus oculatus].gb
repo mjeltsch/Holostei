@@ -1,0 +1,100 @@
+LOCUS       XM_015345377            2030 bp    mRNA    linear   VRT 08-JAN-2016
+DEFINITION  PREDICTED: Lepisosteus oculatus vascular endothelial growth factor
+            C (vegfc), mRNA.
+ACCESSION   XM_015345377
+VERSION     XM_015345377.1
+DBLINK      BioProject: PRJNA221149
+KEYWORDS    RefSeq.
+SOURCE      Lepisosteus oculatus (spotted gar)
+  ORGANISM  Lepisosteus oculatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006269909.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Lepisosteus oculatus Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2030
+                     /organism="Lepisosteus oculatus"
+                     /mol_type="mRNA"
+                     /isolate="Spotted Gar 1"
+                     /db_xref="taxon:7918"
+                     /sex="female"
+                     /country="USA: Bayou Chevreuil, St. James Parish,
+                     Louisiana"
+                     /lat_lon="29.91 N 90.80 W"
+                     /linkage_group="LG4"
+     gene            1..2030
+                     /gene="vegfc"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 7 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 19 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:102698339"
+     CDS             471..1679
+                     /gene="vegfc"
+                     /codon_start=1
+                     /product="vascular endothelial growth factor C"
+                     /protein_id="XP_015200863.1"
+                     /db_xref="GeneID:102698339"
+                     /translation="MHLLGLSLFLVYAVFLYRDFAFESGHDYYDYDQDQGDTKDHATP
+                     DLEERLRSVSSVDELMKIVYPNYWTMLKCQSKRGGRMHFRDQGASDSRTEEPLIFAAA
+                     FYNFEILKSIESEWRKTLCMPREVCLDVGKEFGAATNTFYKPPCVSVYRCGGCCNSEE
+                     YQCRNLSTSYISKTLFEITIPLSQEPKPVTISFANHTLCRCLSKLDVFRQVHSIIRRS
+                     LPECHATNKTCPKNHIWNNNICRCVIQHDFSFPSQYSGPRSFGGFDDICGPNKELDEE
+                     TCQCVCKGRQRSSSCGPNRELDGHSCQCVCKLLPTACGPNKVFDKDTCQCACTKVCPK
+                     NQPLNPTKCACECTESPNKCFLRGRRFHHPTCSCYRPPCEVRRRRCEPGFYFSEEVCR
+                     CIPTYWRRLD"
+ORIGIN      
+        1 ctcatatttc tttctcaaac ctcctgcttt gtataaatac tagcatatca gcttctagct
+       61 gcaatcccga ctagaccaga tccgaaaaac cagggggagg agaaggagaa agggaaagag
+      121 ggccaccgtt aaattgcatt aaacatgcca ttctctcctc tctgggtctt aaactggatg
+      181 tctactggtc ttgtgcaagt ttcgtaccag acaacacgtg aaaagatctc ctcctaaatt
+      241 tgccttcctt ttcgcaagcg attccaccga gtcaactgat attgatgcgt ttctgaattt
+      301 ttaaatgatt gtcagccgta ggaaactcgg atacccccat gcattttaat ttgggtcgaa
+      361 gaaagtctga aactgcgctt gagcgactac aagataccaa gaccgattaa actttttgaa
+      421 aggaaatatt gcgactgctt ttggtctcgg gattgctgag atagtgtaaa atgcacctac
+      481 ttggattatc tctttttctc gtctatgcag tgtttcttta cagagacttc gcttttgaat
+      541 caggtcatga ttattacgac tatgatcaag atcaaggaga tacgaaggac catgccacac
+      601 cagatctaga agagcgtttg cggtctgtgt ccagcgttga tgagctcatg aaaatagtct
+      661 atccaaatta ctggactatg ttaaaatgtc agtcaaaacg aggagggcgt atgcatttca
+      721 gagatcaagg tgcctctgac tcaagaacag aggagccctt gatatttgct gcagcatttt
+      781 ataactttga aattttaaaa agtattgaat ctgagtggag aaagaccctg tgcatgccac
+      841 gagaagtttg tttagatgtg ggaaaagagt ttggggctgc aacaaacacc ttctataaac
+      901 caccctgcgt gtctgtctac agatgtgggg gctgctgcaa cagtgaggag tatcagtgca
+      961 ggaaccttag tacttcttac atcagcaaaa cactatttga aattaccata ccactgtctc
+     1021 aagaaccaaa accagtgaca atcagctttg ccaaccatac cttgtgccgc tgcttgtcaa
+     1081 aactggatgt tttcagacaa gtccattcaa tcattaggcg gtctctacca gaatgtcacg
+     1141 ctacaaacaa aacgtgtcca aagaatcaca tttggaacaa taacatatgc agatgcgtga
+     1201 tacaacatga cttcagtttt ccttcgcaat actcaggacc tcgttcattc ggtggatttg
+     1261 atgatatctg cggaccaaac aaagaactcg atgaggaaac gtgtcagtgt gtgtgtaagg
+     1321 gacgccagag gtcatccagc tgtgggccta acagagaact ggacggacat tcctgtcagt
+     1381 gcgtttgtaa actgcttcca actgcatgtg gacctaacaa ggttttcgat aaggatacat
+     1441 gccagtgtgc ttgtacaaag gtctgtccaa aaaatcaacc tctaaacccc acaaaatgcg
+     1501 cctgtgaatg cacagaatct ccaaacaaat gttttctgag aggaagaagg tttcatcacc
+     1561 caacatgcag ttgctaccgg ccaccgtgtg aagttcggcg aagacggtgc gaaccagggt
+     1621 tttattttag tgaggaagtt tgccgctgca taccgaccta ctggaggaga ctggattgaa
+     1681 cacgtgcgaa cacttggaga cattttggtc tgaaactgac tatgaaattg acagacaaaa
+     1741 aatgtgcact gtttggaatt ccgctatagg gccacagttg gcccaatgga gagagacgcg
+     1801 tttgtgcttt tccttgagtg aaaaaaatgg gaaacaattg taaacaatag tgttgatatg
+     1861 aaagtcttac aaagaactta aaatggctct ctaaaagtgg actaatggag tgagcctttt
+     1921 tttttcagat aatgattata taatttattg tctaaatatt tttcaacatt cttgtgcata
+     1981 gtaatttcaa tcctttaaaa gaaaatacac tgtgatcaat atttttgtat
+//
+

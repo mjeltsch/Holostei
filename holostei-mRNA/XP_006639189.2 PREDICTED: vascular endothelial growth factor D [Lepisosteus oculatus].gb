@@ -1,0 +1,97 @@
+LOCUS       XM_006639126            1820 bp    mRNA    linear   VRT 08-JAN-2016
+DEFINITION  PREDICTED: Lepisosteus oculatus c-fos induced growth factor
+            (vascular endothelial growth factor D) (figf), mRNA.
+ACCESSION   XM_006639126
+VERSION     XM_006639126.2
+DBLINK      BioProject: PRJNA221149
+KEYWORDS    RefSeq.
+SOURCE      Lepisosteus oculatus (spotted gar)
+  ORGANISM  Lepisosteus oculatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006270023.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jan 8, 2016 this sequence version replaced XM_006639126.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Lepisosteus oculatus Annotation
+                                           Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1820
+                     /organism="Lepisosteus oculatus"
+                     /mol_type="mRNA"
+                     /isolate="Spotted Gar 1"
+                     /db_xref="taxon:7918"
+                     /sex="female"
+                     /country="USA: Bayou Chevreuil, St. James Parish,
+                     Louisiana"
+                     /lat_lon="29.91 N 90.80 W"
+                     /linkage_group="LG17"
+     gene            1..1820
+                     /gene="figf"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 5 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 9 samples with support for all annotated
+                     introns"
+                     /db_xref="GeneID:102691241"
+     CDS             618..1559
+                     /gene="figf"
+                     /codon_start=1
+                     /product="vascular endothelial growth factor D"
+                     /protein_id="XP_006639189.2"
+                     /db_xref="GeneID:102691241"
+                     /translation="MKTHSCIIMHLMVVSCVRLMQGNPDQNFQKAENKEVWEQNVRCA
+                     SSLEELLRLTDYPDWKLWKCRLKLKQVASSPGARSYSAASHRATRYAAASYSLEILKA
+                     IDDEWQKTQCMPRETFVDVAKELGTNTNIFFKPPCVSVFRCGGCCNKEGVICKETSFT
+                     YVNKTLLTFSIPLKYGPEPVLIKVANHTECKCMEPVIIRRHVQEHRGNRCSFGLKNPG
+                     SHKLCDKGLIWDCMAAKCVLYPSIKKKEEFSPITKLSDCGPPRMFDENQCDCVCENNC
+                     FRNYTINQKNCSCHCSLNHEICATENKEFDPGSCSCN"
+ORIGIN      
+        1 aagggcttgg gtgggattag agccagattt tttaactgct gaagtctgct aaactctggg
+       61 ttacgcttaa aacacatgct tctctctgat tccacaaagt ctgtgtattg aggaaaatat
+      121 agcgctactg gattaaagta ttgaagacgg aaatctttgc cattgaaata ccactctctg
+      181 caccaaagaa gaaattctta aaaaggagaa aactgcagta ttgttttatg aaaattgaga
+      241 aataattgca taccaggtta cacagtaaat caaagagtgc tggatttttt tgatcaaagc
+      301 tttacttttt tattcctgaa caaaatttcc tgatgatttg ccttttgctg atgatgtgct
+      361 gattcaaata ttccactgcc tgaggtttgg tagctgactt ggaaaagttt ttttttttag
+      421 tttttttttt tagcaatcag ttttttgtta attttttagg attttataac tgcaaggcca
+      481 atccattctt atccattcta atgagttgat aagtgcacca gccatcagtc tgcagagttg
+      541 agttttcttt tacaaggaga tgtaatgcct gtctgactgg ttctggaata gaacacttac
+      601 tggagatcga aggaacaatg aagactcatt cttgtatcat aatgcatctc atggtggttt
+      661 catgcgttcg gctcatgcag ggaaatcctg atcaaaactt ccagaaggca gaaaataagg
+      721 aggtgtggga gcagaacgtt agatgtgcct ccagcctcga ggagctgctg aggctgacgg
+      781 actaccctga ctggaaactg tggaagtgca gactgaagct caagcaggtc gcgtcctcgc
+      841 cgggagcgcg ctcgtattcc gcagcgtcgc accgcgccac gcgctacgcc gcggcgtctt
+      901 acagcctgga gattctgaaa gccattgatg acgaatggca gaaaacacag tgcatgccca
+      961 gggagacctt tgtagatgtg gctaaggaac tgggcaccaa tacaaacata ttcttcaaac
+     1021 ccccctgtgt gtctgtcttc aggtgcggtg ggtgctgtaa caaagaaggc gtgatatgca
+     1081 aagaaacaag ttttacctac gtaaataaaa ccctcttaac attttcaata ccactgaaat
+     1141 acggaccaga gccagttctg ataaaggtgg ccaatcacac tgaatgcaaa tgcatggagc
+     1201 ctgtgattat cagacggcac gtacaggaac acagaggaaa caggtgttct tttggactta
+     1261 aaaacccagg ttcacacaag ctatgtgaca aaggtctcat ctgggactgc atggcagcta
+     1321 agtgtgtctt gtacccctcc ataaaaaaga aagaagaatt ttctccaatt accaagttgt
+     1381 cagactgtgg gcctcctagg atgtttgatg aaaaccaatg tgattgtgtt tgtgagaaca
+     1441 attgtttcag aaattacaca ataaaccaga aaaactgtag ctgccattgt tctctaaacc
+     1501 atgagatctg tgccacagaa aacaaagagt ttgacccagg ctcctgcagc tgtaactgaa
+     1561 aatggaagat aaagcactga cattctgaaa ggttgagcgg tttgaaatta gaaattaatt
+     1621 tattgacgtg tctatgtctg tcatgcattt aatgtttata ttactcctcc ccctcctgca
+     1681 cacaagaagt gtaaaaagga ccacattaaa ttacttctaa atgtaaagct gttaagtttt
+     1741 agcagatggt ttgtaacttg gcttcctgta ggcactgaac atatatttta cagtttaaaa
+     1801 tcatattttt gtatttgtca
+//
+

@@ -1,0 +1,232 @@
+CLUSTAL W multiple sequence alignment
+
+MBN3325961.1      ------------------------------------------------------------
+XP_006632034.2    atgaaaaattactctctggcattccgattgctgatcaaaggcacaagcaacttatgcact
+MBN3297333.1      ------------------------------------------------------------
+XP_015200863.1    ------------------------------------------------------atgcac
+MBN3300054.1      ------------------------------------------------------------
+MBN3326620.1      ------------------------------------------------------atgcac
+XP_006639189.2    ------------------------------------------------------------
+MBN3324988.1      ------------------------------------------------------------
+MBN3295635.1      ------------------------------------------------------------
+
+MBN3325961.1      atgtggatgttttctgtttgtctatggattctcaatgttttgcctttctgccttcaatat
+XP_006632034.2    atgtggatgttttctgtttgtctatggattctcaatgttttgcctttctgccttcaatat
+MBN3297333.1      ------------------------------------------------------------
+XP_015200863.1    ctacttggattatctctttttctcgtctatgcagtgtttctttacagagacttcgctttt
+MBN3300054.1      ------------------------------------------------------------
+MBN3326620.1      ctacttggattatctctttttctcgtctatgcagtgtttctttacagagacttcgctttt
+XP_006639189.2    ---------------------atgaagactcattcttgtatcataatgcatctcatggtg
+MBN3324988.1      ---------------------atgagtctccac------tggaaaagttgcccattgtcc
+MBN3295635.1      ---------------------atggattcacataca---gataatacaaatagatactcc
+
+MBN3325961.1      gagtctgaacaggagtactat---------------caggatgtggaagaaacagagtta
+XP_006632034.2    gagtctgaacaggagtactat---------------caggatgtggaagaaacagagtta
+MBN3297333.1      ------------------------------------------------------------
+XP_015200863.1    gaatcaggtcatgattattacgactatgatcaagatcaaggagatacgaaggaccatgcc
+MBN3300054.1      ---------------------------------------------cttcaggaccaggtg
+MBN3326620.1      gaatcaggtcatgattattacgactatgatcaagatcaaggagatacgaaggaccatgcc
+XP_006639189.2    gtttcatgcgttcggctcatgcagggaaatcctgatcaaaacttccagaaggcagaaaat
+MBN3324988.1      agatcacaccccagggcagtaagcacagccagcactacaacatgtcaacatgcagaaaat
+MBN3295635.1      tctaatctggatcgtgtggtttgtctcctcattcctcag------aagcaggtagagaac
+
+MBN3325961.1      gggagtgatctgcacagccagtgggggacagtgtccactgtggatgagctgctggatctc
+XP_006632034.2    gggagtgatctgcacagccagtgggggacagtgtccactgtagatgagctgctggatctc
+MBN3297333.1      ------------------------------------------------------------
+XP_015200863.1    acaccagatctagaagagcgtttgcggtctgtgtccagcgttgatgagctcatgaaaata
+MBN3300054.1      tcaccagatatagaggagcagttgcgctctgcttccagtgtggatgaactcatgaaatta
+MBN3326620.1      acaccagatctagaagagcgtttgcggtctgtgtccagcgttgatgagctcatgaaaata
+XP_006639189.2    aaggaggtgtgggagcagaacgttagatgtgcctccagcctcgaggagctgctgaggctg
+MBN3324988.1      aaggaggtgtgggagcagaacgttagatgtgcctccagcctcgaggagctgctgaggctg
+MBN3295635.1      caggaagcatgggaagagatggttcgctctgcctcgagtctggaggagctgttgcaactg
+
+MBN3325961.1      ttgtacccagagtacggcctggtccagcactgcctacgcaagaaggcactgaacacgcag
+XP_006632034.2    ttgtatccagagtatggcctggtccagcactgcctacgcaagaaggcactgaacacgcac
+MBN3297333.1      ------------------------------------------------------------
+XP_015200863.1    gtctatccaaattactggactatgttaaaatgtcagtcaaaacgaggagggcgtatgcat
+MBN3300054.1      gtctatccgaattattggacgatattgaagtgtcaatccaagcga------gctctgccc
+MBN3326620.1      gtctatccaaattactggactatgttaaaatgtcagtcaaaacgaggagggcgtatgcat
+XP_006639189.2    acggactaccctgactggaaactgtggaagtgcagactgaagctcaagcaggtcgcgtcc
+MBN3324988.1      acggactaccctgactggaaactgtggaagtgcagactgaagctcaagcaggtcgcgtcc
+MBN3295635.1      accgactatccagactggaagctgtggaagtgcagactgaagctccagcagctgttgtcc
+
+MBN3325961.1      acatcaatccaggaggaaggggacagctggggcaatcaaaaaaag------gcagcactc
+XP_006632034.2    acatcaatccaggaggaaggggacagctggggcaatcaaaaaaag------gcagcactc
+MBN3297333.1      ------------------------------------------------------------
+XP_015200863.1    ttcagagatcaaggtgcctctgactcaagaacagaggagcccttgatatttgctgcagca
+MBN3300054.1      atcagagagccggctgcctcggactcgaggaccggagagccactaatattcgctgcagct
+MBN3326620.1      ttcagagatcaaggtgcctctgactcaagaacagaggaacccttgatatttgctgcagca
+XP_006639189.2    tcgccgggagcgcgctcgtattccgcagcgtcgcaccgcgccacgcgctacgccgcggcg
+MBN3324988.1      tcgccgggaacgcgctcgtatggcgcagcgtcacaccgcgccacgcgctacgccgcggcg
+MBN3295635.1      tccccggagtcgaggacctcctcctcggcctcgcaccgctctgcgcgctacgcctccgct
+
+MBN3325961.1      tacatcgcagacagtgcatttgaccttattttggatgagatgcagaagaccttgtgcact
+XP_006632034.2    tacatcgcagacagcgcatttgaccttattttggatgagatgcagaagaccttgtgcact
+MBN3297333.1      ---------------------------------------atgcagaagaccggctgcagg
+XP_015200863.1    ttttataactttgaaattttaaaaagtattgaatctgagtggagaaagaccctgtgcatg
+MBN3300054.1      tttttcagcatggagatttataaaagtattgaatctgagtggagaaagaccgaatgcatg
+MBN3326620.1      ttttataactttgaaattttaaaaagtattgaatctgagtggagaaagaccctgtgcatg
+XP_006639189.2    tcttacagcctggagattctgaaagccattgatgacgaatggcagaaaacacagtgcatg
+MBN3324988.1      tcttacagcctggagattctgaaagccattgatgacgaatggcagaaaacacagtgcatg
+MBN3295635.1      tcctacaatctagaaatcctgaaagttattgacgatgaatggcagaaaacacagtgcatg
+
+MBN3325961.1      ccaagagaagtgttactggatgtttctaaagaataccctgagagtacaaccaatttctac
+XP_006632034.2    ccaagagaagtgttcctggatgtttctaaagaataccctgagagtaccaccaatttctac
+MBN3297333.1      ccaagagaagtgcttctagatgtctccaaggaataccctgaaagtacaaacacgttttac
+XP_015200863.1    ccacgagaagtttgtttagatgtgggaaaagagtttggggctgcaacaaacaccttctat
+MBN3300054.1      ccgcgagaagtttgtttagatgtgggaaaagagtctgggggatcgacaaacaccttctat
+MBN3326620.1      ccacgagaagtttgtttagatgtgggaaaagagtttggggctgcaacaaacaccttctat
+XP_006639189.2    cccagggagacctttgtagatgtggctaaggaactgggcaccaatacaaacatattcttc
+MBN3324988.1      cccagggagacctttgtagatgtggctaaggaactgggcaccaatacaaacatattcttc
+MBN3295635.1      cccagagaaacccatgtagatgtggcaaaggaactgggcaccagtacaaacatgttcttc
+
+MBN3325961.1      ctgcctcgctgtgtctctgtgcaccgatgtggtggatgctgcaacagtgaagccttccac
+XP_006632034.2    ctgcctcgctgtgtctctgtgcaccgatgtggtggatgctgcaaaagtgaagccctccac
+MBN3297333.1      atgcctcactgtgtctctgtgtatcgctgtgggggctgctgtaacaatgaggccttccac
+XP_015200863.1    aaaccaccctgcgtgtctgtctacagatgtgggggctgctgcaacagtgaggagtatcag
+MBN3300054.1      aaaccatcctgcgtgtgtgtctacagatgtgggggctgctgcaacagtgaaggtctacag
+MBN3326620.1      aaaccaccctgcgtgtctgtctacagatgtgggggctgctgcaacagtgaggagtatcag
+XP_006639189.2    aaacccccctgtgtgtctgtcttcaggtgcggtgggtgctgtaacaaagaaggcgtgata
+MBN3324988.1      aaacccccctgtgtgtctgtcttcaggtgcggtgggtgctgtaacaaagaaggcgtgata
+MBN3295635.1      aaacccccatgtgtgtctgtcttcaggtgcagtgggtgctgtaacaaagaaggcatgtca
+
+MBN3325961.1      tgtgtcaacaccagctacacctatgtcaacaagactttgattgaactctccatgccacat
+XP_006632034.2    tgtgtcaacaccagctatacctatgtcaacaagactttgattgaactctccatgccacat
+MBN3297333.1      tgtgtcaacacaagtcacacttacatcaacaagaccttggtcgagatgtacatgccacag
+XP_015200863.1    tgcaggaaccttagtacttcttacatcagcaaaacactatttgaaattaccataccactg
+MBN3300054.1      tgtgtgaacattagtacctcttacgtcagcaaatcagtaattgaggtaaccagtccagtg
+MBN3326620.1      tgcaggaaccttagtacttcttacatcagcaaaacactatttgaaattaccataccactg
+XP_006639189.2    tgcaaagaaacaagttttacctacgtaaataaaaccctcttaacattttcaataccactg
+MBN3324988.1      tgcaaagaaacaagttttacctacgtaaataaaaccctcttaacattttcaataccactg
+MBN3295635.1      tgtaaaaacacaagtttttcctacgttaataaaactcttttcacgttttcaataccacta
+
+MBN3325961.1      atggaaaagacagtt---gttatggtcagttttgtcaatcacacagagtgcgaatgccaa
+XP_006632034.2    atggaaaagacagtt---gttatggtcagttttgtcaaccacacagagtgcgaatgccaa
+MBN3297333.1      acctcatcatcagtg---atcgtggtcaacttcatcaaccacacagcctgtgaatgccaa
+XP_015200863.1    tctcaagaaccaaaaccagtgacaatcagctttgccaaccataccttgtgccgctgcttg
+MBN3300054.1      cctcaaggaacaaagccagtcacaatcagctttgcaaaccacacgttatgtcgctgcttg
+MBN3326620.1      tctcaagaaccgaaaccagtgacaatcagctttgccaaccataccttgtgtcgttgcttg
+XP_006639189.2    aaatacggaccagagccagttctgataaaggtggccaatcacactgaatgcaaatgcatg
+MBN3324988.1      aaatacggaccagagccagttctgataaaggtggccaatcacactgaatgcaaatgcatg
+MBN3295635.1      agaaaagaccctgagccagtactgataaaggtagccaatcataccgaatgtaaatgcatg
+
+MBN3325961.1      cccaag------------cgatctcctcactctgtcatcaggaggtcagccaatacacca
+XP_006632034.2    cccaag------------cgatctcctcactctgtcatcaggaggtcagccaatacacca
+MBN3297333.1      actaag------------cgaccgattcactccatcatcaggaggtcagcagccact---
+XP_015200863.1    tcaaaactggatgttttcagacaagtccattcaatcattaggcggtctctaccagaa---
+MBN3300054.1      tctaagttggatgtctacagacaagtgcattcaatcattaggcggtctctaccagag---
+MBN3326620.1      tcaaaactggatgtttacagacaagttcattcaatcattaggcggtctctaccagag---
+XP_006639189.2    gagcct------------------------gtgattatcagacggcac------------
+MBN3324988.1      gagcct------------------------gtgattatcagacggcac------------
+MBN3295635.1      gagccc------------------------agtgtgatccgccggcac------------
+
+MBN3325961.1      tgt------------cctgagaca------gacagtacctgtgccgctggttttaattgg
+XP_006632034.2    tgt------------cctgagaca------gacagtacctgtgccgctggtctaaattgg
+MBN3297333.1      ggccatgctaaatgcgctgcgacc------gaaactcaatgtgctgctgggctgttaagg
+XP_015200863.1    tgtcacgctaca------------------aacaaaacgtgtccaaagaatcacatttgg
+MBN3300054.1      tgtcacgtggct------------------aacaaaacctgtcccaagaatcatgcctgg
+MBN3326620.1      ttcaattcaaacacacttttcttatggggggaaaatttaaaaacagataataaagtccac
+XP_006639189.2    ------------------------------------------------------------
+MBN3324988.1      ------------------------------------------------------------
+MBN3295635.1      ------------------------------------------------------------
+
+MBN3325961.1      aatcctgttacttgccagtgcatgtctgaggacatgagcctgttctcctctacacagtca
+XP_006632034.2    aatcctgttacttgccagtgcatgtctgacgacatgagcctcttctcctccacagagcca
+MBN3297333.1      agccctgtcacctgccagtgtgagcccgatgacatcagccgggggcctctgaccgaatac
+XP_015200863.1    aacaataacatatgcagatgcgtgatacaacatgacttcagttttccttcgcaatactca
+MBN3300054.1      aataaccgcctctgcagatgtgtgaagcaacatgactttggctttccttcacagtactca
+MBN3326620.1      aacacaaaagcttctgcactgatagaaggaaagaaaattggaaaaaaagaacagctgtca
+XP_006639189.2    ------------gtacaggaacacagaggaaacaggtgttcttttggacttaaaaaccca
+MBN3324988.1      ------------gtacaggaacacagaggaaacaggtgttcttttggacttaaaaaccca
+MBN3295635.1      ------------gtacgcccacaccgaggaaacagatgtactcttggactcaagaaccaa
+
+MBN3325961.1      aacccactg---------------------------------------------------
+XP_006632034.2    gacccactg---------------------------------------------------
+MBN3297333.1      aaccccctg---------------------------------------------------
+XP_015200863.1    ggacctcgt---------------------------------------------------
+MBN3300054.1      ggctctcac---------------------------------------------------
+MBN3326620.1      gggccacgatggaaaacaaacactgcaaagaatgaaaagtggaattttcttatgaaaata
+XP_006639189.2    ggttcacac---------------------------------------------------
+MBN3324988.1      ggttcacac---------------------------------------------------
+MBN3295635.1      ggcccacac---------------------------------------------------
+
+MBN3325961.1      ------------------------------gctgaggctctcattgacctctgtggtcct
+XP_006632034.2    ------------------------------gctgaggctctcattgacctctgtggtcct
+MBN3297333.1      ------------------------------gctggtgcgctgtctgacttctgcggtccg
+XP_015200863.1    ---------------------------tcattcggtggatttgatgatatctgcggacca
+MBN3300054.1      ---------------------------tcttttgccggattcgatgatatctgcggacca
+MBN3326620.1      gttgcaaaatattttaacaattacagttcattcagtggatttgatgatatctgcggacca
+XP_006639189.2    ---------------------------------------------aagctatgtgacaaa
+MBN3324988.1      ---------------------------------------------aagctatgtgacaaa
+MBN3295635.1      ---------------------------------------------aagctatgtgacaat
+
+MBN3325961.1      aacaaactgtggaatgaggagcactgcgagtgtgtgtgtcagaatgggctgacccacttg
+XP_006632034.2    aacaaactgtggagtgaggagcactgtgagtgtgtgtgtcagaatgggctaacccacttg
+MBN3297333.1      aacaaagtgtgggacgaggagcactgcgaatgcgtgtgctacaatgggctgacccactct
+XP_015200863.1    aacaaagaactcgatgaggaaacgtgtcagtgtgtgtgtaagggacgccagaggtcatcc
+MBN3300054.1      aacagagaactggacgaggagacctgccagtgtgtgtgtaagggacgcttgaagcccagc
+MBN3326620.1      aacaaagaactcgatgaggaaacgtgtcagtgtgtgtgtaagggacaccagaggtcatcc
+XP_006639189.2    ggtctcatctgggactgcatggcagctaagtgtgtcttgtacccctccataaaaaagaaa
+MBN3324988.1      ggtctcatctgggactgcatggcagctaagtgtgtcttgtacccctccataaaaaagaaa
+MBN3295635.1      ggcctcatctgggactgcatgtcatcgaagtgtgtgccatatccctccacgaacaagcaa
+
+MBN3325961.1      agctgtggagaaggatggaggcttgacgaggttgactgtgaatgtgtctgtgaagaacaa
+XP_006632034.2    agctgtggagaaggatggaggcttgatgaggttgactgtgaatgtgtctgtgaagaacaa
+MBN3297333.1      gcctgcggggaaggccggagactcgacggcgctacctgcgagtgcgtgtgtgcggagcag
+XP_015200863.1    agctgtgggcctaacagagaactggacggacattcctgtcagtgcgtttgtaaactg---
+MBN3300054.1      agctgtggacctaacagagaactggacagagattcttgtcagtgcgtttgtaaacta---
+MBN3326620.1      agctgtgggcctaacagagaactggacggacattcctgtcagtgcgtttgtaaactg---
+XP_006639189.2    gaa---------------gaattttctccaattacc------------------------
+MBN3324988.1      gaa---------------gaattttctccaattacc------------------------
+MBN3295635.1      ------------------------------------------------------------
+
+MBN3325961.1      gcggctctggagccctgccctccccaccagaagtgggacaaagagcgctgtggatgcgtc
+XP_006632034.2    gcggctttggagccctgccctccccaccagaagtgggacaaagagcgctgtggatgcgtc
+MBN3297333.1      gcggcacccgagttctgtccacccaagcagaagtgggacgaggagctctgtgggtgcgtt
+XP_015200863.1    ---cttccaactgcatgtggacctaacaaggttttcgataaggatacatgccagtgtgct
+MBN3300054.1      ---ctgccatcttcatgtggacctaacagggttttcaataaggacacctgccagtgcgtt
+MBN3326620.1      ---cttccaactgcatgtggacctaacaaggttttcgataaggatacatgccagtgtgct
+XP_006639189.2    ---aagttgtcagactgtgggcctcctaggatgtttgatgaaaaccaatgtgattgtgtt
+MBN3324988.1      ---aagttgtcagactgtgggcctcctaggatgtttgatgaaaaccaatgtgattgtgtt
+MBN3295635.1      ---------------------------------------gcaggtaggtgt---------
+
+MBN3325961.1      tgccaggcagactgcccaaagagtcagcctctgaaccccgggaactgccagtgtgagtgt
+XP_006632034.2    tgccaggcagactgcccaaagagtcagcctctgaaccccgggaactgccagtgtgagtgt
+MBN3297333.1      tgcacggcagactgcccaaagaatcaacctctgaatccggagaactgtcagtgcgagtgc
+XP_015200863.1    tgtacaaaggtctgtccaaaaaatcaacctctaaaccccacaaaatgcgcctgtgaatgc
+MBN3300054.1      tgtgcgaaggcctgcccaaagcaccaaccgctaaatcttacaaagtgtgcctgcgaatgc
+MBN3326620.1      tgtacgaaggtctgtccaaaaaatcaacctctaaaccccacaaaatgcgcctgtgaatgc
+XP_006639189.2    tgtgagaacaattgtttcagaaattacacaataaaccagaaaaactgtagctgccattgt
+MBN3324988.1      tgtgaaaacaattgttccagaaattacacagtaaaccagaaaaactgtagctgccattgt
+MBN3295635.1      ------------------------------------------------------------
+
+MBN3325961.1      aaagagaatgcgaacacatgtttactgcaagggaagaagttcaaccctgaaacctgcagc
+XP_006632034.2    aaagagaatgcgaacacatgtttactgcaagggaagaagttcaaccctgaaacctgcagc
+MBN3297333.1      aaggagagtctggccacctgtatgatgcaagggaagaagttcaaccctgaaacctgcagg
+XP_015200863.1    acagaatctccaaacaaatgttttctgagaggaagaaggtttcatcacccaacatgcagt
+MBN3300054.1      accgaatctcccaacagatgtttcttgagagggagaaggtttcatcatccaacgtgcagt
+MBN3326620.1      acagaatctccaaacaaatgttttctgagaggaagacggtttcatcacccaacatgcagt
+XP_006639189.2    tctctaaaccatgagatctgtgccacagaaaacaaagagtttgacccaggctcctgcagc
+MBN3324988.1      tctctaaaccatgagatctgtgccacagaaaacaaagagtttgacccaggctcctgcagg
+MBN3295635.1      ------------------------------------------------------------
+
+MBN3325961.1      tgttaccggctaccctgcaggacaaaaaacaggaaatgtccatctggatattattacagc
+XP_006632034.2    tgttaccggctaccctgcaggacaaaaaacaggaaatgtccatctggatattattacagc
+MBN3297333.1      ------------------------------------------------------------
+XP_015200863.1    tgctaccggccaccgtgtgaagttcggcgaagacggtgcgaaccagggttttattttagt
+MBN3300054.1      tgctaccggccaccatgcgaagctcggaggaagtggtgcgagacggggctatacttcagc
+MBN3326620.1      tgctaccggccaccgtgtgaagttcggcgaagacggtgcgaaccagggttttattttagt
+XP_006639189.2    tgtaac------------------------------------------------------
+MBN3324988.1      ------------------------------------------------------------
+MBN3295635.1      ------------------------------------------------------------
+
+MBN3325961.1      caatatgtatgtcactgcttaccaaacttcatgaggtcatatgagcagtat
+XP_006632034.2    cagtatgtatgtcactgcttaccaaacttcatgaggtcatatgagcagtat
+MBN3297333.1      ---------------------------------------------------
+XP_015200863.1    gaggaagtttgccgctgcataccgacctactggaggagactggat------
+MBN3300054.1      gaggaagtatgccgctgcatcccaacgtactggagaagactggat------
+MBN3326620.1      gaggaagtttgccgctgcataccgacgtactggaggagactggat------
+XP_006639189.2    ---------------------------------------------------
+MBN3324988.1      ---------------------------------------------------
+MBN3295635.1      ---------------------------------------------------
+
